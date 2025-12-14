@@ -1,4 +1,4 @@
-# azure-data-engineering-End to End
+# Azure-Data-Engineering-End to End
 Project Overview (Short README Version)
 
 This project is an end-to-end Azure Data Engineering pipeline built to solve a simulated business problem and strengthen practical understanding of data pipelining concepts.
